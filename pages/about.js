@@ -7,7 +7,7 @@ const about = props => {
 				<title>Ninja | About</title>
 			</Head>
 			<div>
-				P<h1>About</h1>
+				<h1>About</h1>
 			</div>
 		</>
 	);
